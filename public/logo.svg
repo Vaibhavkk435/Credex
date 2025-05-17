@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="40" viewBox="0 0 160 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Isometric Cube Logo -->
+  <g transform="translate(8, 8)">
+    <!-- Front face -->
+    <path d="M0 8L12 16L24 8L12 0L0 8Z" fill="white"/>
+    <!-- Right face -->
+    <path d="M24 8L12 16L12 24L24 16L24 8Z" fill="#E5E7EB"/>
+    <!-- Left face -->
+    <path d="M0 8L12 16L12 24L0 16L0 8Z" fill="#9CA3AF"/>
+  </g>
+  <!-- CentralAxis Text -->
+  <text x="42" y="24" fill="white" font-family="Inter" font-size="16" font-weight="500" letter-spacing="0.2">
+    CentralAxis
+  </text>
+</svg> 
